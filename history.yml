@@ -1,24 +1,100 @@
 ---
 convergence: |+
-  data: {"points":[{"x":678,"y":48},{"x":679,"y":38},{"x":680,"y":11},{"x":681,"y":44},{"x":682,"y":33},{"x":683,"y":16},{"x":684,"y":21},{"x":685,"y":3},{"x":686,"y":49},{"x":687,"y":23}],"id":"convergence","updatedAt":1432829564}
+  data: {"points":[{"x":495,"y":5},{"x":496,"y":9},{"x":497,"y":12},{"x":498,"y":38},{"x":499,"y":11},{"x":500,"y":8},{"x":501,"y":45},{"x":502,"y":31},{"x":503,"y":17},{"x":504,"y":39}],"id":"convergence","updatedAt":1432910930}
 
 valuation: |+
-  data: {"current":88,"last":33,"id":"valuation","updatedAt":1432829566}
+  data: {"current":22,"last":17,"id":"valuation","updatedAt":1432910929}
 
 karma: |+
-  data: {"current":161856,"last":83282,"id":"karma","updatedAt":1432829566}
+  data: {"current":34153,"last":107618,"id":"karma","updatedAt":1432910929}
 
 synergy: |+
-  data: {"value":7,"id":"synergy","updatedAt":1432829566}
+  data: {"value":7,"id":"synergy","updatedAt":1432910929}
 
 buzzwords: |+
-  data: {"items":[{"label":"Turn-key","value":19},{"label":"Web 2.0","value":3},{"label":"Leverage","value":14},{"label":"Streamlininess","value":2},{"label":"Pivoting","value":11},{"label":"Enterprise","value":7},{"label":"Synergy","value":19},{"label":"Paradigm shift","value":17},{"label":"Exit strategy","value":15}],"id":"buzzwords","updatedAt":1432829564}
+  data: {"items":[{"label":"Leverage","value":17},{"label":"Streamlininess","value":26},{"label":"Paradigm shift","value":25},{"label":"Enterprise","value":29},{"label":"Pivoting","value":0},{"label":"Synergy","value":28},{"label":"Web 2.0","value":19},{"label":"Turn-key","value":29},{"label":"Exit strategy","value":21}],"id":"buzzwords","updatedAt":1432910930}
 
 welcome: |+
-  data: {"title":"The amazing title","text":"The time is 2015-05-28 16:12:46 +0000","id":"welcome","updatedAt":1432829566}
+  data: {"title":"The amazing title","text":"The time is 2015-05-29 14:48:49 +0000","id":"welcome","updatedAt":1432910929}
 
-twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\":\"Jajaa
-  #fwp I know. #lt\",\"avatar\":\"https://pbs.twimg.com/profile_images/595140167062650880/GvSSyVeb_normal.jpg\"},{\"name\":\"Garrick
+twitter_mentions: "data: {\"comments\":[{\"name\":\"Abraham Villanueva\",\"body\":\"No
+  poder hacer el horario para el verano académico. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000273430500/c52e459f1faeeb2574ee308bf5f2b97a_normal.jpeg\"},{\"name\":\"Ana\",\"body\":\"I
+  want an iPad, but I also want a good price for selling my galaxy note tablet. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/599382189898395649/v1oZiXJa_normal.jpg\"},{\"name\":\"Jason\",\"body\":\"@fuzableSoftware
+  y'all need to stop driving me so hard #fwp because I still need to catch the end
+  of The Wolf of Wall Street\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000144955564/50d9d8448e27ed0df4dabff47d4e64bc_normal.jpeg\"},{\"name\":\"fuzableSoftware\",\"body\":\"the
+  Azure preview pricing calculator is better than the current calculator, but it doesn't
+  support everything yet boo #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/522539242874888192/r-_mmCgI_normal.png\"},{\"name\":\"acheong\",\"body\":\"Dear
+  iPhone: guess my face ain't recognition worthy to you #firstworldproblems #FWP #못나서미안\",\"avatar\":\"https://pbs.twimg.com/profile_images/570942446915289089/ZqGrIqGK_normal.jpeg\"},{\"name\":\"GardenCat\",\"body\":\"Goddamn
+  you premium hair care products from @Sephora - why must you work so well? *grumbles*
+  #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/2822704264/98838f91a380bacbc8641f69bee20c5e_normal.jpeg\"},{\"name\":\"Angeline
+  Tan\",\"body\":\"Celcom sucks balls in KL/PJ la weh walao nvr thought poor reception
+  wld significantly affect my life bt good god ITS RUINING MY LYF lol #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000613658596/fc7b5394fa103cac7fc51801036b5cfc_normal.jpeg\"},{\"name\":\"Hope
+  Yolanda\",\"body\":\"My first bit of Internet connection. Thank god for that. I
+  don't know how I've survived without for the past week #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/564160086755377152/1omUbUJN_normal.jpeg\"},{\"name\":\"Haus
+  Of Makeup\",\"body\":\"Contemplating on buying something .. but not sure what ..
+  #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/552090802726240256/HpKTUnlP_normal.jpeg\"},{\"name\":\"gumicsont\",\"body\":\"vajon
+  a culinarisban egy adag levegőn szárított olasz sonkáért tudok erzsébet utalvánnyal
+  fizetni? #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000624499980/f253e2beff92d5016ba9e8cbf2ededa7_normal.jpeg\"},{\"name\":\"Tim
+  Natzschka\",\"body\":\"Schade, dass weder @DieRotenBullen noch jmd vor Ort @periscopeco
+  oder @AppMeerkat zur Übertragung nutzt. #pk #fwp #neuland #Rangnick\",\"avatar\":\"https://pbs.twimg.com/profile_images/507845334991503360/X4wnCMRt_normal.jpeg\"},{\"name\":\"~
+  Liz ~\",\"body\":\"@TheFollowingFOX Not happy with the #seriesfinale of #thefollowing.
+  #disappointing #fwp \U0001F4FA\U0001F615\U0001F610\U0001F44E\",\"avatar\":\"https://pbs.twimg.com/profile_images/582305648852996096/fcG5WD3T_normal.jpg\"},{\"name\":\"Kimberly
+  Hoang\",\"body\":\"And now would be the time to go downstairs for a late night snack
+  \\n\\nBut we don't have any pizza rolls nor ramen \U0001F610 #fwp #horriblesummer\",\"avatar\":\"https://pbs.twimg.com/profile_images/511235679947603968/Ywntvpgi_normal.jpeg\"},{\"name\":\"Johanna
+  Wagner\",\"body\":\"Lol idk what to instagram now that I'm not in tampa... #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/599772658390171650/_x2Kbbix_normal.jpg\"},{\"name\":\"Cait
+  Mac\",\"body\":\"I WILL find a race/Fitness contest that takes place within the
+  TTC limits this summer. I'LL MAKE ONE IF I HAVE TO. #fwp #NoCar\",\"avatar\":\"https://pbs.twimg.com/profile_images/3257714264/38f3a6e1b6b90bfb663ea81301b21fe4_normal.jpeg\"},{\"name\":\"Samuel
+  ヘビシャ\",\"body\":\"feel like a nap, but then sofa feel so hot that i can't sleep
+  #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/569852887757357056/FPWXkZLA_normal.jpeg\"},{\"name\":\"Rog42\",\"body\":\"Quick
+  poll: Ride from city to N Syd &amp; try to find a park for a 1pm mtg. Or walk to
+  Wynyard, train and return to pick up bike later? #FWP #FB\",\"avatar\":\"https://pbs.twimg.com/profile_images/544105007054741504/oajFsaNV_normal.jpeg\"},{\"name\":\"jacky
+  marie\",\"body\":\"You know what I hate? When @sonicdrivein forgets my cherry in
+  my diet cherry limeade. \U0001F62D #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/596558034563899392/AoA39pM5_normal.jpg\"},{\"name\":\"Chris
+  Allen\",\"body\":\"@homersdonut If it makes you feel any better, I tried to get
+  a second band today, and they were all sold out \U0001F614 #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/590710276653248512/PExGDjzE_normal.jpg\"},{\"name\":\"Mônica\",\"body\":\"@MTVBrasil
+  \\\"o que ele é? Um lobisomem?\\\"\\nHAHAHAHÁ Disney mandou lembranças #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/595057280573407232/F9CBeLYb_normal.jpg\"},{\"name\":\"Nikko
+  Lee\",\"body\":\"#FWP \\n\\nNot knowing how to start a conversation with bæ.\",\"avatar\":\"https://pbs.twimg.com/profile_images/534884941155549184/VR1lNBQn_normal.jpeg\"},{\"name\":\"mj\",\"body\":\"is
+  there anything worse than slow internet? #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/598237053780774912/Mj9-bM-3_normal.jpg\"},{\"name\":\"Jodi
+  Greco\",\"body\":\"Hot tub assembly is hard. #fwp @ Maryvale, Toronto https://t.co/l7fIm0UjRZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/595978084354027520/BnqyJgF1_normal.jpg\"},{\"name\":\"Maria
+  Navarrete\",\"body\":\"Just talked to Mom and she said there's no wifi at grandmas
+  house so she hasn't been on FB since Sunday!!! #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/525657287260512257/eipzck4p_normal.jpeg\"},{\"name\":\"Kim
+  & Earl\",\"body\":\"@lexihaught #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000511903703/ccfc163a2ecc0bb65241370d5a21f00a_normal.jpeg\"},{\"name\":\"Tobis'
+  Girl❤\",\"body\":\"@MahfoudMaryam @razetvlog und wie! \U0001F605 Tobi! Das kommt
+  in dein nächstes #fwp Video! \U0001F44C\U0001F602\",\"avatar\":\"https://pbs.twimg.com/profile_images/573519493999292416/Pp97HU30_normal.jpeg\"},{\"name\":\"Tobis'
+  Girl❤\",\"body\":\"RT @MahfoudMaryam: @LaraHeib_ @razetvlog Haha, typisches #fwp.
+  \U0001F604\",\"avatar\":\"https://pbs.twimg.com/profile_images/573519493999292416/Pp97HU30_normal.jpeg\"},{\"name\":\"Mag
+  Robertson\",\"body\":\"If you're doing a mani/pedi at home, always do the pedi first...It's
+  fucking difficult to do a pedi with a wet mani. #fwp *hair flip* \U0001F481\U0001F3FB\U0001F485\U0001F3FC\",\"avatar\":\"https://pbs.twimg.com/profile_images/602807993609154560/MF5lOHhU_normal.jpg\"},{\"name\":\"Clench
+  Online\",\"body\":\"Sorry, I can't delete any of my voicemails cause then people
+  would be able to leave me a new one! #FWP #leavemealone #dontcallmecrazy #bacon\",\"avatar\":\"https://pbs.twimg.com/profile_images/3369847726/3f7fd01f1283903d03597e688383a1bd_normal.jpeg\"},{\"name\":\"Zahra\",\"body\":\"Waiting
+  for @maibutt_ like \U0001F62B #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/569652974327443456/pgcRNsMC_normal.jpeg\"},{\"name\":\"Marinah\",\"body\":\"the
+  hardest part is waiting for somebody to wake up so they'll text you back \U0001F601
+  #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/603424801294802945/ZwfmR23K_normal.jpg\"},{\"name\":\"saskia.
+  \",\"body\":\"Muss mich noch abschminken, aber hab' keine Lust dazu. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603369493021249536/GjceRZgI_normal.jpg\"},{\"name\":\"♠
+  Dzsörzi™\",\"body\":\"Az egyik játékmagazin írói között annyi jó arc van Twitteren,
+  de nem lehet követni őket, mert egész nap itt chatelnek egymással. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/596369988866310144/DtE06Ica_normal.jpg\"},{\"name\":\"boogabaah
+  weesnaah\",\"body\":\"Big #spider on my #salt lamp #wtf #fwp #nope http://t.co/llt3doPBir\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000130103559/1903af0b3920f69f010dbe867bf26679_normal.jpeg\"},{\"name\":\"Walter
+  Kwok\",\"body\":\"So I accidentally clicked on a Taylor Swift article and all of
+  sudden Google Now on my phone is sending me cards all about her latest. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/3106693954/0c488265db2147d50aba330c2301c9a2_normal.jpeg\"},{\"name\":\"Jess
+  Bargery-Stroud\",\"body\":\"the struggle of sitting around, waiting for nail polish
+  to dry \U0001F634 #pleasedontsmudge #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/483917888022392833/oWitAdQZ_normal.jpeg\"},{\"name\":\"Brie\",\"body\":\"Oh
+  my God I feel your pain... I'm going to Istanbul with just hand luggage \U0001F630
+  #FWP  https://t.co/ef2AYS67RT\",\"avatar\":\"https://pbs.twimg.com/profile_images/599683404746088448/8PvaLKmh_normal.jpg\"},{\"name\":\"Ashley
+  John\",\"body\":\"@curryspcworld OMG! your website was built by a chimp! Did they
+  go to barclays code academy? #PoorForm #FWP #Hashtag http://t.co/oqg85zVkUD\",\"avatar\":\"https://pbs.twimg.com/profile_images/589881989165113345/crSgoAWo_normal.jpg\"},{\"name\":\"Ericka
+  Hiyoshi\",\"body\":\"@SmoshIan #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603076374413246465/Wgc17Q6I_normal.jpg\"},{\"name\":\"Empress
+  Cupcake\",\"body\":\"I am hungry! But I'm two and a bit hours away from breakfast!
+  #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/563083151145459712/dIDEmFg2_normal.jpeg\"},{\"name\":\"Paige
+  Gower\",\"body\":\"@marissabrooke98 #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/604093074000756738/9aHsU4Hg_normal.jpg\"},{\"name\":\"Andrew
+  Zuo\",\"body\":\"I want to see the drawing but I don’t want to rewind a live stream
+  #fwp. #io15\",\"avatar\":\"https://pbs.twimg.com/profile_images/576875654022443008/4y_NHUQ8_normal.jpeg\"},{\"name\":\"seamus
+  sullivan\",\"body\":\"there is NO reason for banks to not list both wire and ACH
+  routing numbers on web sites these days, I don't care how small the bank! #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/1210264856/burly_normal.jpg\"},{\"name\":\"Lisa
+  G.\",\"body\":\"*sigh* Choosing an #Insta filter is always hard. Decisions, decisions.
+  #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/525101263302979584/mHASva4n_normal.jpeg\"},{\"name\":\"Anna\",\"body\":\"When
+  you wake up craving breakfast from McDonald's but you also wake up after they already
+  got rid of breakfast for the day. #fwp \U0001F62D\",\"avatar\":\"https://pbs.twimg.com/profile_images/587082494329102337/OetT2ErS_normal.jpg\"},{\"name\":\"Pat
+  nicht Päät.\",\"body\":\"Jajaa #fwp I know. #lt\",\"avatar\":\"https://pbs.twimg.com/profile_images/595140167062650880/GvSSyVeb_normal.jpg\"},{\"name\":\"Garrick
   Dietze\",\"body\":\"Trying to fit my frame into a wetsuit is like watching a butcher
   make sausage. How do you fit all of that in there? #fwp #trainingfortri\",\"avatar\":\"https://pbs.twimg.com/profile_images/439051621427720192/pA58hxMx_normal.jpeg\"},{\"name\":\"iMakary\",\"body\":\"I
   bought new jeans. \\n#fwp #firstworldproblems\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000582288364/27e2e56c2a1b40ca259cb54863410a55_normal.jpeg\"},{\"name\":\"Turd
@@ -107,7 +183,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   #FWP https://t.co/UeJwhZrbKy\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000152089555/1ce59167db5b3b1890565d011c8d1a67_normal.jpeg\"},{\"name\":\"♛DUCHESS♛\",\"body\":\"Cant
   decide what to wear tomorrow #firstworldproblems #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/589784769795268609/fLgVdKa-_normal.jpg\"},{\"name\":\"jen\",\"body\":\"@Moke453
   i won't. We love the messenger, and the rest of Twitter would kill me!! Man, I just
-  hate these swamp-like conditions. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/602936260043231232/GSepjw7m_normal.jpg\"},{\"name\":\"Gwen
+  hate these swamp-like conditions. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/604108381368930304/w2MeWqZy_normal.jpg\"},{\"name\":\"Gwen
   Betts\",\"body\":\"Accidentally got tangelos instead of clementines, and was NOT
   prepared for the sourness. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/548600656177938432/53J86JYi_normal.jpeg\"},{\"name\":\"Vickie
   (aka micvic)\",\"body\":\"@_aycee #fwp #craievrytim\",\"avatar\":\"https://pbs.twimg.com/profile_images/601011973443072000/OhNx2Ls9_normal.jpg\"},{\"name\":\"Isa.\",\"body\":\"RT
@@ -202,9 +278,9 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   World Problems (pt.2) http://t.co/uVOlNKxO4B #Entertainment #FirstWorldProblems
   #FWP #Humor\",\"avatar\":\"https://pbs.twimg.com/profile_images/3550335360/38fb56bcd2faa107dfde830e29c11250_normal.jpeg\"},{\"name\":\"Tiffany
   D.\",\"body\":\"I want to go get food but everything is closed...#fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603092623356637184/oF-K63tI_normal.jpg\"},{\"name\":\"☠Death☠\",\"body\":\"#fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/583933042613428225/r0LM8p-0_normal.jpg\"},{\"name\":\"Alvin
-  Ling\",\"body\":\"Eyes closing &amp; if I take a shower I will be wide awake. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/601466241656586240/gwTrHRAX_normal.jpg\"},{\"name\":\"Baby
-  V\",\"body\":\"I'm 20 and my back decides to go out when I pick up my hair brush...
-  That's just sad. Now I can't go to work. #fwp #tuesdaymourning \U0001F62D\U0001F61E\U0001F494\",\"avatar\":\"https://pbs.twimg.com/profile_images/601203342585372673/qZmMU4OW_normal.jpg\"},{\"name\":\"Ashley
+  Ling\",\"body\":\"Eyes closing &amp; if I take a shower I will be wide awake. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/601466241656586240/gwTrHRAX_normal.jpg\"},{\"name\":\"Vanessa
+  \",\"body\":\"I'm 20 and my back decides to go out when I pick up my hair brush...
+  That's just sad. Now I can't go to work. #fwp #tuesdaymourning \U0001F62D\U0001F61E\U0001F494\",\"avatar\":\"https://pbs.twimg.com/profile_images/604140896079073280/qLXy4TYo_normal.jpg\"},{\"name\":\"Ashley
   Rentz\",\"body\":\"Who is this? \U0001F602\U0001F602\U0001F602 #fwp (Vine by Funny
   White People™) https://t.co/zT4maaYuU5\",\"avatar\":\"https://pbs.twimg.com/profile_images/600157156592070659/ab2U60Ml_normal.jpg\"},{\"name\":\"The
   Gaming Tramp\",\"body\":\"First world problem of the week: My bag of #googlyeyes
@@ -217,7 +293,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   Blach \",\"body\":\"You know it's gonna be a long day when you've given up on the
   day and it's not even 2nd hour. \U0001F620\U0001F620 #CanItBeSummerYet #FWP\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"Rich
   Smith\",\"body\":\"Okay so THIS happend... of all the bloody... argh!! #TuesdayLikeMonday
-  #Fuck #argh #FWP http://t.co/4WNZtOfmhn\",\"avatar\":\"https://pbs.twimg.com/profile_images/598126015181815809/ol5Oy8Th_normal.png\"},{\"name\":\"hali
+  #Fuck #argh #FWP http://t.co/4WNZtOfmhn\",\"avatar\":\"https://pbs.twimg.com/profile_images/604219077796716546/WnJdpxrv_normal.jpg\"},{\"name\":\"hali
   hali hali\",\"body\":\"need to gym but need to watch got #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603234034760704000/r4GLJ3QZ_normal.jpg\"},{\"name\":\"jaybird
   street\",\"body\":\"God dam I'm out of snacks and I'm really hungry!!! But it's
   1230 and I don't want to get out of bed or miss the race haha #sbscycling #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/417633646330130433/XJ8i2dT2_normal.jpeg\"},{\"name\":\"Pak
@@ -251,7 +327,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   Rea\",\"body\":\"Anybody remember the school days when you lend your best friend
   your favourite game and he/forgets to bring it back for weeks? #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/601499622608080896/odpShrYC_normal.jpg\"},{\"name\":\"BobSermon\",\"body\":\"First
   world problems and I don't know which one to pick! Air Max 1 or 90? #airmax #nike
-  #picnic #dailypicture #fwp… http://t.co/0tUUzohLJy\",\"avatar\":\"https://pbs.twimg.com/profile_images/603044521765695488/QgyBAMte_normal.jpg\"},{\"name\":\"#teamNEVAEH\",\"body\":\"@rikkigarciaa
+  #picnic #dailypicture #fwp… http://t.co/0tUUzohLJy\",\"avatar\":\"https://pbs.twimg.com/profile_images/604217249004666881/jTBzLsgw_normal.jpg\"},{\"name\":\"#teamNEVAEH\",\"body\":\"@rikkigarciaa
   smdh #FWP at it's finest\",\"avatar\":\"https://pbs.twimg.com/profile_images/475125962233753600/fl_3C9No_normal.jpeg\"},{\"name\":\"#teamNEVAEH\",\"body\":\"#FWP
   my nephew was legit upset at my mom because she mixed his spanish rice with his
   corn\",\"avatar\":\"https://pbs.twimg.com/profile_images/475125962233753600/fl_3C9No_normal.jpeg\"},{\"name\":\"Riley
@@ -267,7 +343,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   Fiso\",\"body\":\"@craftnotkraft Pizza Hut ran out of pineapple on Saturday night
   so we had to have pepperoni #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/595065645760286720/8xwWv7af_normal.jpg\"},{\"name\":\"Charlene
   Ilagan\",\"body\":\"When they don't have the macaron flavors you want \U0001F62D\U0001F494
-  #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/603073952567599104/P6LtdjRt_normal.jpg\"},{\"name\":\"Ćɛٳıŋɛ\",\"body\":\"Ich
+  #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/603073952567599104/P6LtdjRt_normal.jpg\"},{\"name\":\"Cҽɭɩŋҽ\",\"body\":\"Ich
   hab' kein Bock noch 4 Stunden wachzubleiben, aber werd's sicher nicht schaffen in
   4 Stunden aufzustehen. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/590165717523292160/3eFJUuu9_normal.jpg\"},{\"name\":\"•
   Silk Dragon •\",\"body\":\"When you find a spot that would be the perfect background
@@ -317,13 +393,14 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   Barz\",\"body\":\"Cyclists attack Pedalpub w/ squirt guns.  http://t.co/7VC8xUupgq.
   \ Great First World Problem.  #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/2838342063/f187a18e58d29f96f1dda9bf250ad95a_normal.jpeg\"},{\"name\":\"CitySightseeing
   Zach\",\"body\":\"Think it's taken me longer to walk to the toilet than the whole
-  tour takes! #fwp #bankholiday\",\"avatar\":\"https://pbs.twimg.com/profile_images/589747773240696833/4_ruG7cF_normal.jpg\"},{\"name\":\"Jimmy
+  tour takes! #fwp #bankholiday\",\"avatar\":\"https://pbs.twimg.com/profile_images/589747773240696833/4_ruG7cF_normal.jpg\"},{\"name\":\"Clare
+  Bear\",\"body\":\"You'd think that with a whole separate app for Messenger, Facebook
+  might be able to give us more access to the 'Other' inbox. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/602894873239388161/Hk71-sHc_normal.jpg\"},{\"name\":\"Jimmy
   Brehm\",\"body\":\"...And in U.S. news top story, police in DC blew up a crockpot.
   #fwp http://t.co/TUS8pLWz0J\",\"avatar\":\"https://pbs.twimg.com/profile_images/579417089804525568/9sjb0GKa_normal.jpg\"},{\"name\":\"Leah\",\"body\":\"Another
   weekend where my only visitor is my boyfriend, I have so many antisocial acquaintances
   #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/591960584301719552/IcyH9T53_normal.jpg\"},{\"name\":\"Bat-mama\",\"body\":\"Its
-  1030pm, I feel hungry, but I know I will be going to bed soon. I'm so torn lol #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/602656329967087618/Q6N6-_3E_normal.jpg\"},{\"name\":\"mcnuggets
-  ♡ \",\"body\":\"@tanyaeats wow #workrelated #blessed #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/575606742572101633/oNo7AgIV_normal.jpeg\"},{\"name\":\"Cristobal
+  1030pm, I feel hungry, but I know I will be going to bed soon. I'm so torn lol #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/602656329967087618/Q6N6-_3E_normal.jpg\"},{\"name\":\"Cristobal
   Galit Jr\",\"body\":\"the struggle not to yawn in a middle of a seminar but youre
   too sleepy...  #fwp @nadiavictoria92\",\"avatar\":\"https://pbs.twimg.com/profile_images/581772962929356800/_CHPeyGT_normal.jpg\"},{\"name\":\"◕
   ‿ ◕\",\"body\":\"I added too much chili in my indomee and now im struggling to finish
@@ -370,7 +447,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   @AvatarDiaang: When you do your eye makeup on one eye and it looks so good &amp;
   you know you wont be able to replicate it on the other eye …\",\"avatar\":\"https://pbs.twimg.com/profile_images/601515544328605700/zbOIKkC9_normal.jpg\"},{\"name\":\"..\",\"body\":\"When
   you find a photo you should've posted at the time #devo #fwp #nyc #newyorkcity #views
-  #topoftherock #empirest… http://t.co/fvRW7z0e6p\",\"avatar\":\"https://pbs.twimg.com/profile_images/603941639946686465/jL-7hnHp_normal.jpg\"},{\"name\":\"yung
+  #topoftherock #empirest… http://t.co/fvRW7z0e6p\",\"avatar\":\"https://pbs.twimg.com/profile_images/604283854749327361/Akw6Tp2d_normal.jpg\"},{\"name\":\"yung
   water pouch\",\"body\":\"When you do your eye makeup on one eye and it looks so
   good &amp; you know you wont be able to replicate it on the other eye \U0001F60A\U0001F60A\U0001F60A\U0001F60A\U0001F60A\U0001F60A\U0001F60A\U0001F60A\U0001F60A\U0001F60A\U0001F60A
   #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/600525045807480833/SXlBMnZw_normal.jpg\"},{\"name\":\"Rick
@@ -436,7 +513,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   NUKKUU #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/565547393764966400/-8-t3h1N_normal.jpeg\"},{\"name\":\"Eric
   Laue\",\"body\":\"#MemorialDayWeekend #Eurorvision2015 \\n#FWP http://t.co/OZXfXMqaE6\",\"avatar\":\"https://pbs.twimg.com/profile_images/572235662457352194/FPHjj8kk_normal.jpeg\"},{\"name\":\"monica\",\"body\":\"My
   mom and dad are giving me flowers for the first time ever at grad.. But when I asked
-  for tulips they said those were too much $$ :( #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603947606645985283/tygZvhyO_normal.jpg\"},{\"name\":\"Kevin
+  for tulips they said those were too much $$ :( #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/604028920585805824/GDg4Pgji_normal.jpg\"},{\"name\":\"Kevin
   B. Murray\",\"body\":\"\\\"We look good in every filter.\\\"\U0001F62C #firstworldproblems
   #fwp @laurenrayna @JacobJeffries\",\"avatar\":\"https://pbs.twimg.com/profile_images/1148277570/CLLAW-ly_Brown_Just_Me_normal.jpg\"},{\"name\":\"Arni
   Vidar\",\"body\":\"Finn ekki Mute takkann á fjarstýringunni. #FWP #12stig\",\"avatar\":\"https://pbs.twimg.com/profile_images/1721044347/211735_1248590045_1477775322_n_normal.jpg\"},{\"name\":\"Henrietta\",\"body\":\"still
@@ -461,7 +538,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   Lyné\",\"body\":\"Who is this? \U0001F602\U0001F602\U0001F602 #fwp (Vine by Funny
   White People™) https://t.co/9DLE5f1SUx\",\"avatar\":\"https://pbs.twimg.com/profile_images/602634721378627584/O_3j5FTD_normal.jpg\"},{\"name\":\"Ed
   Moss\",\"body\":\"There are folks who walk 3 miles just for a sip of water yet we
-  complain about how far we park in the lot from the supermarket. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/565589507366330368/AUh-zdxA_normal.jpeg\"},{\"name\":\"Orlaith\",\"body\":\"Gay
+  complain about how far we park in the lot from the supermarket. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/604271606416961536/OVLq54f3_normal.jpg\"},{\"name\":\"Orlaith\",\"body\":\"Gay
   dilemma: wait to see the official #marref announcement on TV or get to Tesco on
   time to buy #Eurovision2015 supplies #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/602198055803351040/8xfXhHK6_normal.jpg\"},{\"name\":\"Nobodies
   of Note\",\"body\":\"#fwp #fuckwhiteprivilege https://t.co/5YyxG8S6yj\",\"avatar\":\"https://pbs.twimg.com/profile_images/440922211591798784/RdvfKfMb_normal.jpeg\"},{\"name\":\"Nobodies
@@ -729,7 +806,7 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   Povah\",\"body\":\"Seems like there is more legroom on a €45 @vueling flight than
   there is now on a @British_Airways CE €450 flight. That's mental. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/2553282607/image_normal.jpg\"},{\"name\":\"Martyn\",\"body\":\"Just
   been for my afternoon cuppa and the coffee shop has run out of my favourite purple
-  hibiscus tea! #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/3043362957/8c2621b4addbaf6fe8ef8a556275abbe_normal.jpeg\"},{\"name\":\"™\",\"body\":\"Who
+  hibiscus tea! #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/604203394165821440/pQackfZQ_normal.jpg\"},{\"name\":\"™\",\"body\":\"Who
   is this? \U0001F602\U0001F602\U0001F602 #fwp (Vine by @talentvines) https://t.co/Bf73R06HkF\",\"avatar\":\"https://pbs.twimg.com/profile_images/600342686080618496/InaljJzY_normal.jpg\"},{\"name\":\"Jim
   House\",\"body\":\"Waiting at DMV. Wifi is not working and can only get 3G. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/435588157292412930/lYzrJcQG_normal.jpeg\"},{\"name\":\"Ericka
   Hiyoshi\",\"body\":\"I wanna take off my shirt coz its so hot but we have a visitor
@@ -794,16 +871,15 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   Jai Bernard\",\"body\":\"RT @ClenchOnline: How to get your GF to watch hockey: Tell
   her the teams think they are fighting over the world’s last Oreo. #winning #hock…\",\"avatar\":\"https://pbs.twimg.com/profile_images/513217305317494784/XOzbjBBH_normal.jpeg\"},{\"name\":\"Julie
   Vu\",\"body\":\"Supposed to save money but we're ALWAYS shopping and spending money
-  (especially on food) fml @julieannnee #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/527047082247729153/ESkBNh4K_normal.jpeg\"},{\"name\":\"Evergreen
-  \",\"body\":\"At the beach but there's only 3g. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/544544372902334464/3mCuw7vu_normal.jpeg\"},{\"name\":\"delaney\",\"body\":\"Why
+  (especially on food) fml @julieannnee #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/527047082247729153/ESkBNh4K_normal.jpeg\"},{\"name\":\"delaney\",\"body\":\"Why
   is Chipotle literally always busy. :( #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/601452497350234112/n7_6_InZ_normal.jpg\"},{\"name\":\"Lea\",\"body\":\"RT
   @lilibayliss: When you're stoked with your outfit choice, then realise you need
   to get completely nude to pee. #toolate #fwp #byyouimean…\",\"avatar\":\"https://pbs.twimg.com/profile_images/428370414352359425/tM-ykvsF_normal.jpeg\"},{\"name\":\"Keyan
   X\",\"body\":\"THERES SO MANY DEVICES AROUND MY HOUSE #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/418960453734518784/rBoLEaQY_normal.png\"},{\"name\":\"☀️\",\"body\":\"RT
   @ChasxKxnnxdy: when you mess up a tweet but someone already faved it and you need
-  to fix it but can't because it won't get faved again..…\",\"avatar\":\"https://pbs.twimg.com/profile_images/600771581414105088/OF3QppDr_normal.jpg\"},{\"name\":\"Chase\",\"body\":\"when
-  you mess up a tweet but someone already faved it and you need to fix it but can't
-  because it won't get faved again.. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/594685151931686912/iedZYRLi_normal.jpg\"},{\"name\":\"•
+  to fix it but can't because it won't get faved again..…\",\"avatar\":\"https://pbs.twimg.com/profile_images/604289399602462722/3nkQ2JAZ_normal.jpg\"},{\"name\":\"Oh
+  Look Chase \",\"body\":\"when you mess up a tweet but someone already faved it and
+  you need to fix it but can't because it won't get faved again.. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/594685151931686912/iedZYRLi_normal.jpg\"},{\"name\":\"•
   Silk Dragon •\",\"body\":\"There's little shimmers in my new nail polish. I'm mad.
   #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603002718031060992/qBCX5BI3_normal.jpg\"},{\"name\":\"RunyanSelena\",\"body\":\"RT
   @DeirdreReynold: для fwp 3pc http://t.co/GHWiQxDKni #для #fwp Драйвер\",\"avatar\":\"https://pbs.twimg.com/profile_images/3597918260/45c8ea2eb6f1d7db876a21c8dab44385_normal.jpeg\"},{\"name\":\"BattsAlexandra\",\"body\":\"RT
@@ -857,133 +933,10 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Pat nicht Päät.\",\"body\"
   are basements so cold? #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603069058695696384/6uQPC8e1_normal.jpg\"},{\"name\":\"addy
   grace\",\"body\":\"When you need to go to sephora but Obama being here is making
   terrible traffic #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/597090579743436801/rTpuZnsM_normal.jpg\"},{\"name\":\"Tiffany
-  Thornton\",\"body\":\"@RobLowe #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/571873191276257280/j_r-rah9_normal.jpeg\"},{\"name\":\"Nathan
-  Daugherty\",\"body\":\"Back to the Grand Hotel tonight! #grandhotel #musical #fwp
-  http://t.co/hxK6IFYgNh\",\"avatar\":\"https://pbs.twimg.com/profile_images/598489524386205696/SXhq_Cyb_normal.jpg\"},{\"name\":\"mariane\",\"body\":\"Por
-  qué tengo que ganar tanto dinero haciendo casi nada ? #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/581468521479057408/CDumD03i_normal.jpg\"},{\"name\":\"Dice-a-dore\",\"body\":\"@muirkate
-  around the world alot of time could be saved and #pain avoided if people wore more
-  flats! #bigfashion #oppression #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/594221162420379649/1AzVPWVT_normal.jpg\"},{\"name\":\"Vix
-  Edwards\",\"body\":\"RT @FresherPress: We think cycling around the UK deserves a
-  donation! All money goes to @shiftms - a great cause! Donations also collected …\",\"avatar\":\"https://pbs.twimg.com/profile_images/603466209972121601/RvbfAJQ0_normal.jpg\"},{\"name\":\"Fresher
-  Publishing\",\"body\":\"Only one more day until our exciting awards evening! Here
-  are the details on our fabulous winning cover! #FWP http://t.co/A7iUW0riFR\",\"avatar\":\"https://pbs.twimg.com/profile_images/445936409929465856/2IgZvOtL_normal.jpeg\"},{\"name\":\"lydia_petze\",\"body\":\"Only
-  problem with listening to vinyl in the bath is it's only good for 4 or 5 songs and
-  you have to either get out or do without. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/416127840174624769/zjJytGfa_normal.jpeg\"},{\"name\":\"carmen\",\"body\":\"The
-  joys of #Tinder #SingleLife #fwp #dating #soSaditsFunny http://t.co/Pjp2cuzIj1\",\"avatar\":\"https://pbs.twimg.com/profile_images/575986237485510657/6fyypOVX_normal.jpeg\"},{\"name\":\"Suzanne\",\"body\":\"#fwp
-  I own a two family house but never rented out the second apartment. Because I wanted
-  extra money I had to rent out the other apartment!\",\"avatar\":\"https://pbs.twimg.com/profile_images/492361685785513984/OYxEFAbX_normal.jpeg\"},{\"name\":\"EJ
-  Palmer\",\"body\":\"@BryceRuthven @WonderlandTen \U0001F602\U0001F602 I don't doubt
-  that at all. Plus- the bean bags are flat now, so I'm pretty much sitting on the
-  floor!#FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/564938938876297217/PjzMWPJc_normal.jpeg\"},{\"name\":\"Dani\",\"body\":\"Can't
-  believe I just paid $25 to check a bag @Delta #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/551033147539070977/baoxpjqz_normal.jpeg\"},{\"name\":\"MONDONOMY\",\"body\":\"RT
-  @becca_charlie: Oh that annoying moment when you pour in your bubble bath.. And
-  nothing. No bubbles. Cos you actually bought body wash. …\",\"avatar\":\"https://pbs.twimg.com/profile_images/481190099644727298/5KjxJukD_normal.jpeg\"},{\"name\":\"MangumMcnabb\",\"body\":\"RT
-  @JoannBarbee: 44 6 драйвер http://t.co/Dji6weOwpL #Fwp Fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/3643203618/a6eb9c3733692dd2a49ba831394f2539_normal.jpeg\"},{\"name\":\"Sebastian\",\"body\":\"Ich
-  bin #Mac -Messi ... ich werfe was in den #Trash aber bin zu feige ihn dann zu entleeren!
-  Vlt brauch man es doch nochmal #saywhat #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000850601580/38e620c04d81885281bebd771d15cf0b_normal.jpeg\"},{\"name\":\"Jason
-  Connor\",\"body\":\"@KendelM_Blog Damn, you are making me thirsty. And I do need
-  drink right about now! But working. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/516419180489240577/xDJI785x_normal.jpeg\"},{\"name\":\"Bath
-  Flash Fiction\",\"body\":\"RT @FresherPress: Finally, our short-listed scripts!
-  These were voted as the best scripts for the stage. Good luck everyone! #FWP http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/562324823771078656/_30ocsKT_normal.png\"},{\"name\":\"Shift.ms\",\"body\":\"RT
-  @FresherPress: We think cycling around the UK deserves a donation! All money goes
-  to @shiftms - a great cause! Donations also collected …\",\"avatar\":\"https://pbs.twimg.com/profile_images/539451180057772032/PZN-ZNsr_normal.jpeg\"},{\"name\":\"Fresher
-  Publishing\",\"body\":\"We think cycling around the UK deserves a donation! All
-  money goes to @shiftms - a great cause! Donations also collected at the #FWP event.\",\"avatar\":\"https://pbs.twimg.com/profile_images/445936409929465856/2IgZvOtL_normal.jpeg\"},{\"name\":\"Fresher
-  Publishing\",\"body\":\"Fantastic publisher &amp; judge Ed Peppitt is taking a detour
-  during his charity cycling challenge just to be in Boscombe for the evening! #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/445936409929465856/2IgZvOtL_normal.jpeg\"},{\"name\":\"Fresher
-  Publishing\",\"body\":\"You wouldn't believe the efforts our amazing judges are
-  making to attend our awards event! #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/445936409929465856/2IgZvOtL_normal.jpeg\"},{\"name\":\"Dylan
-  Benson\",\"body\":\"@Arekkz it feels good to say I got mine in the prison thanks
-  RNG or better yet finally @destiny #fwp #destiny\",\"avatar\":\"https://pbs.twimg.com/profile_images/527097447617531904/jwSIw-MY_normal.jpeg\"},{\"name\":\"Aileen
-  Flowers\",\"body\":\"Why you have to have a gf and why I can't stop having a crush
-  on you?#ughh #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/574426152514682882/PDw156pj_normal.jpeg\"},{\"name\":\"Craig
-  Boyle\",\"body\":\"#NomCat stresses me out! #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/600928325679198208/jLTuQRWe_normal.jpg\"},{\"name\":\"jen\",\"body\":\"My
-  house finally has a working microwave, cable and wifi!!! Omgggg life was soooo hard
-  without it. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/603426864586072064/Hx3O0wGs_normal.jpg\"},{\"name\":\"Bex
-  Stevens\",\"body\":\"Oh that annoying moment when you pour in your bubble bath..
-  And nothing. No bubbles. Cos you actually bought body wash. #fwp @Mondonomy\",\"avatar\":\"https://pbs.twimg.com/profile_images/521610033877229568/1hqEpyKF_normal.jpeg\"},{\"name\":\"Steve
-  Kindo\",\"body\":\"Sometimes i wish i had a butler, caus i could use a sandwich
-  rn. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/532991367275094016/sQGIjaf5_normal.jpeg\"},{\"name\":\"Demeowmix\",\"body\":\"I
-  opened chocolate pudding with full intent on eating it but now I don't want it anymore.
-  #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/577743453804695552/SZC9pM8O_normal.jpeg\"},{\"name\":\"Amanda
-  Elizabeth\",\"body\":\"So beyond happy to finally be back home and reunited with
-  my person &lt;3 oh and my pillow of course. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/516807554039418881/zvTeNbjk_normal.jpeg\"},{\"name\":\"Liss\",\"body\":\"Charlie
-  Brown #FWP. https://t.co/6erXP5Hfg9\",\"avatar\":\"https://pbs.twimg.com/profile_images/602508404221841408/5K3SjbVh_normal.png\"},{\"name\":\"JoannBarbee\",\"body\":\"44
-  6 драйвер http://t.co/Dji6weOwpL #Fwp Fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/3580831761/645b43e7315cb309c63bb664d6a1cf5a_normal.jpeg\"},{\"name\":\"n
-  a d z o\",\"body\":\"- I don't remember the last time I flew somewhere. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/597092089390837763/B74mo82M_normal.jpg\"},{\"name\":\"Nikki
-  | +One \",\"body\":\"My stomach is willing to go out for dinner. My brain is like
-  eeeeeeh noooo #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/602772007936098304/HU2i-dv9_normal.jpg\"},{\"name\":\"Danielle
-  Welsh\",\"body\":\"RT @lilibayliss: When you're stoked with your outfit choice,
-  then realise you need to get completely nude to pee. #toolate #fwp #byyouimean…\",\"avatar\":\"https://pbs.twimg.com/profile_images/592131805706223617/wesUkQmU_normal.jpg\"},{\"name\":\"Nathan
-  Walker\",\"body\":\"My framerate keeps lagging below 60fps #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/566673337091624960/n6Jw57DO_normal.jpeg\"},{\"name\":\"Ruby\",\"body\":\"RT
-  @lilibayliss: When you're stoked with your outfit choice, then realise you need
-  to get completely nude to pee. #toolate #fwp #byyouimean…\",\"avatar\":\"https://pbs.twimg.com/profile_images/600259758466027520/d9NT5jkA_normal.jpg\"},{\"name\":\"Lili
-  Bayliss\",\"body\":\"When you're stoked with your outfit choice, then realise you
-  need to get completely nude to pee. #toolate #fwp #byyouimeanme #livinthedream\",\"avatar\":\"https://pbs.twimg.com/profile_images/600201704772997120/soDA7j5S_normal.jpg\"},{\"name\":\"Bantam
-  Mills\",\"body\":\"I made the switch from directv to just using #hulu, #amazon,
-  and #netflix to save money. It's hard when I want to watch #flash live. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/579077394113245184/9R3wbMy__normal.jpg\"},{\"name\":\"Amy
-  Cortright\",\"body\":\"Hmm. I want SOMETHING for a snack, but nothing with sugar.
-  We're out of potato chips.  So that leaves.....cat food. #EW #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/437256081949990912/t9oH564b_normal.jpeg\"},{\"name\":\"Melody
-  M\",\"body\":\"The new big apartment novelty is wearing off... I have to clean this
-  place! Yikes. #fwp #domesticgoddess #eep\",\"avatar\":\"https://pbs.twimg.com/profile_images/516277982294335488/I0QGzZRp_normal.jpeg\"},{\"name\":\"Lady
-  Zaphod\",\"body\":\"Our Internet is broken. I never realized how much of my life
-  it controls.  #fml #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/492906201794240513/Aurwzojd_normal.jpeg\"},{\"name\":\"Javier
-  Estrada\",\"body\":\"@mattigonz went the bathroom and forgot your phone #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/492342318045741056/gFnwqb4T_normal.jpeg\"},{\"name\":\"sk8lyn\",\"body\":\"My
-  dog just chewed up my mom's louboutin. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/603357050152812544/yWmMGyOF_normal.jpg\"},{\"name\":\"julia\",\"body\":\"Who
-  is this? \U0001F602\U0001F602\U0001F602 #fwp (Vine by @talentvines) https://t.co/u8ProEjQyB\",\"avatar\":\"https://pbs.twimg.com/profile_images/602362161202073600/RDdzHFNf_normal.jpg\"},{\"name\":\"Whyte
-  Lyte\",\"body\":\"Was gonna eat @tacobell - but \\\"Ghosts\\\" by @wecameasromans
-  was on, and I'm on a diet. #ChangeTheWayYouAct #FWP http://t.co/df53Q1aXdh\",\"avatar\":\"https://pbs.twimg.com/profile_images/592075889275310080/jWDHzvsC_normal.png\"},{\"name\":\"Zirf\",\"body\":\"RT
-  @ASAP__Isaiah: Lol @ when mom decides to cook something that 0% of her family enjoys
-  eating for dinner. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/484247609058410496/t92zTThU_normal.jpeg\"},{\"name\":\"Ronald☮\",\"body\":\"RT
-  @ASAP__Isaiah: Lol @ when mom decides to cook something that 0% of her family enjoys
-  eating for dinner. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/582282490133397504/-l5SJHZU_normal.jpg\"},{\"name\":\"lemonzay\",\"body\":\"Lol
-  @ when mom decides to cook something that 0% of her family enjoys eating for dinner.
-  #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/601990638746226689/uiqm5Nv1_normal.jpg\"},{\"name\":\"Richard
-  Fulloway\",\"body\":\"Just found out there's no Netflix or Spotify in India and
-  a little bit of me just died #thanksmodi #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/533347715837468672/dExMKrpK_normal.jpeg\"},{\"name\":\"ariana
-  grande\",\"body\":\"Who is this? \U0001F602\U0001F602\U0001F602 #fwp (Vine by @talentvines)
-  https://t.co/yKMBga2uMC\",\"avatar\":\"https://pbs.twimg.com/profile_images/582308568134782976/stBXyVQS_normal.jpg\"},{\"name\":\"Jamie
-  McEwan\",\"body\":\"being without data this week is going to the biggest challenge
-  ever!! #fwp #nodata\",\"avatar\":\"https://pbs.twimg.com/profile_images/500685236552740864/typu9pQL_normal.png\"},{\"name\":\"Mikiala
-  Tennie\",\"body\":\"Idk how im living life in Florida without tinted windows. Why
-  am I so poor. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/585099683468595200/yOvyYTZV_normal.jpg\"},{\"name\":\"Sigma
-  Dolins\",\"body\":\"“I don’t want to be their boss! I don’t want to be a dictator!
-  I don’t like dictatorships! They make me sad.” #overheard in #Tempe #ASU #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/1754870880/Photo_300_normal.jpg\"},{\"name\":\"CLAUDE\",\"body\":\"I
-  have such high expectations with my instagram now that I've taken to using a dslr
-  to take photos #4SQualityNotGoodEnough #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/596438060331470848/Y55IqyAg_normal.jpg\"},{\"name\":\"Phillip
-  Elizondo \",\"body\":\"#FWP http://t.co/NhDX2ofGSt\",\"avatar\":\"https://pbs.twimg.com/profile_images/3398847610/55e8692a06d4b954ad148ef4d6217d21_normal.jpeg\"},{\"name\":\"DexterTheCat\",\"body\":\"Sorry
-  for being so asocial. Three weeks left of the term. Too much to do, so little time...
-  #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/584431452072321025/mZk94wHw_normal.jpg\"},{\"name\":\"Ashley
-  B\",\"body\":\"Cannot wait for this hot tub to warm up.... #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000330209947/b57fb22d39978af46fed258e69e21df7_normal.jpeg\"},{\"name\":\"Leah\",\"body\":\"@liveindetail
-  too much of a H&amp;S freak to take out the battery &amp; ok bbqs....no problem!
-  Will just have to counter my carbon footprint #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/591960584301719552/IcyH9T53_normal.jpg\"},{\"name\":\"Meyha\",\"body\":\"@TheRealRyanHiga
-  damn you're posting during Eurovision Song Contest, now I have to choose #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/543113337828278272/liQNu78d_normal.jpeg\"},{\"name\":\"Nelson
-  Cheng\",\"body\":\"Why can't the Youtube app keep playing sound when I minimize
-  it #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000112917584/8bb9eee6b497ec0caf1606b27df9e6c8_normal.jpeg\"},{\"name\":\"jezza\",\"body\":\"I
-  WOULD get something akin to strep throat while on a cruise. And miss out on dolphin
-  swimming. #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/471124391577653249/l1BAj3j-_normal.jpeg\"},{\"name\":\"Eric
-  Delapena\",\"body\":\"Choosing whether to nap or eat lunch is the worst dilemma
-  #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/594899741097332736/Ojbk3Ef5_normal.jpg\"},{\"name\":\"Konsta
-  Kivivuori\",\"body\":\"Kahvihammasta kolottaa tähän aikaan vuorokaudesta. Harmittaa
-  melko paljon, kun en olekaan immuuni kofeiinille. #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/592343250251456514/OjOy_vOj_normal.jpg\"},{\"name\":\"William\",\"body\":\"@danisnotonfire
-  I can relate. Also when putting on skinnies and you struggle at the end because
-  you have big feet. \U0001F62A #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/603277530901028864/u72Xze2q_normal.jpg\"},{\"name\":\"Ali
-  McCourt\",\"body\":\"Mom's biggest beef with @Airbnb is that they don't list the
-  brand of mattress like hotels do. Classic #FWP if I've ever heard one...\",\"avatar\":\"https://pbs.twimg.com/profile_images/1808966508/Ali_normal.jpg\"},{\"name\":\"ZotoWitch\",\"body\":\"Negyed
-  8, és bealszom #nyugger #fwp\",\"avatar\":\"https://pbs.twimg.com/profile_images/554369944683806720/SEW4TFyv_normal.jpeg\"},{\"name\":\"Harold
-  Willis \",\"body\":\"I hate when meat is not evenly distributed within my sandwich.
-  \ #fwp http://t.co/so5gLeyYQX\",\"avatar\":\"https://pbs.twimg.com/profile_images/601652819909828608/xezKrGi8_normal.jpg\"},{\"name\":\"Ricky
-  Lin\",\"body\":\"When the wind blows your last bite of jimmy johns off the table
-  \U0001F614 #fwp #itsbeenalongday\",\"avatar\":\"https://pbs.twimg.com/profile_images/2435621840/image_normal.jpg\"},{\"name\":\"Abisai
-  Ayala\",\"body\":\"Not sure if to get the chicken dinner or a burger... #firstworldproblems
-  #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/567170461419597825/4MXjvVYB_normal.jpeg\"},{\"name\":\"Mara
-  Johnson\",\"body\":\"@bigdandbubba driving from prineville to bend after 10 and
-  you have to pass like 19 people because everyone just meanders along #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000724842616/82efe7dd25cefc051aa9682318f48e2a_normal.jpeg\"},{\"name\":\"Alex
-  Hurley\",\"body\":\"RT @FresherPress: Finally, our short-listed scripts! These were
-  voted as the best scripts for the stage. Good luck everyone! #FWP http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/562030976856260608/bdMBPBem_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1432829465}\n\n"
+  Thornton\",\"body\":\"@RobLowe #FWP\",\"avatar\":\"https://pbs.twimg.com/profile_images/571873191276257280/j_r-rah9_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1432910621}\n\n"
 recent_git_commitc: |+
   data: {"text":"one step closer to a git commit message","id":"recent_git_commitc","updatedAt":1397044067}
 
 recent_git_commit: |+
-  data: {"text":"one step closer to a git commit message","id":"recent_git_commit","updatedAt":1432829566}
+  data: {"text":"Added commit text to widget","id":"recent_git_commit","updatedAt":1432910892}
 
